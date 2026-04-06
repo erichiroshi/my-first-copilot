@@ -1,4 +1,4 @@
-# 🧩 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
+# 🧩 Modos do Copiloto (Ask, Edit, Plan, Agent, Study & Mentor)
 
 ![dio/me](https://img.shields.io/badge/dio-me-ff2d55)
 ![IA](https://img.shields.io/badge/IA-Assistente%20Inteligente-blue)
@@ -17,7 +17,7 @@ O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e respo
 
 ---
 
-# ✏️ Edit
+# ✏️ Edit (Implementar)
 O modo **Edit** serve para **alterar código existente**. Você seleciona um trecho (ou um arquivo inteiro), descreve o que quer mudar, e o Copiloto aplica a modificação diretamente.
 
 Ideal para:
@@ -73,9 +73,24 @@ Funciona quase como um **tutor particular**.
 
 ---
 
+# 📚 Mentor
+O modo **Mentor** é o modo mais valioso a longo prazo. Focado em **evolução**, evolui você como engenheiro.
+
+Transformar o usuário em alguém que:
+
+- entende sistema de ponta a ponta
+- toma decisões conscientes
+- pensa em produção
+- se posiciona como engenheiro sênior/staff
+
+📄 **Prompt:** [prompts/prompt-mentor.md](prompts/prompt-mentor.md)
+
+---
+
 # 🧠 Resumo mental rápido
 - **Ask** → entender  
 - **Plan** → planejar antes de agir  
 - **Edit** → mudar código  
 - **Agent** → executar tarefas grandes sozinho  
 - **Study** → entendimento ativo  
+- **Mentor** → evolução profissional
